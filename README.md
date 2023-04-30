@@ -34,7 +34,7 @@ Apart from Bangalore there is not any large change in price and also outliers an
 
 ## Outlier Detection
 Outliers are visualised using Box Plot and then removed as they were generating high skewness in the data.
-![Outlier](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Outliers.png/200/200)
+![Outlier](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Outliers.png)
 We assumed that price can't be more than INR 40,000.
 
 ## Model Selection
