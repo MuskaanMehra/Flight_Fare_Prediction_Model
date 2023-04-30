@@ -26,7 +26,7 @@ From the graph we can see that Jet Airways Business has the highest price. Apart
 
 ### No. of stops v/s Price
 ![Stops](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Stops%20vs%20Price.png)
-As the no. of stops are increasing, the price is decreasing concomitantly.
+As the no. of stops are increasing, the price is inreasing concomitantly.
 
 ### Source v/s Price
 ![Source](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Source%20vs%20Price.png)
@@ -34,7 +34,7 @@ Apart from Bangalore there is not any large change in price and also outliers an
 
 ## Outlier Detection
 Outliers are visualised using Box Plot and then removed as they were generating high skewness in the data.
-![Outlier](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Outliers.png)
+![Outlier](https://github.com/MuskaanMehra/Flight_Fare_Prediction_Model/blob/main/Assets/Outliers.png/200/200)
 We assumed that price can't be more than INR 40,000.
 
 ## Model Selection
